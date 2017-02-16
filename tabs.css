@@ -1,0 +1,15 @@
+div {
+	background-color: gainsboro;
+	border-style: solid;
+}
+
+a:link.navigation {
+	text-decoration: none;
+	color: navy;
+}
+
+div:hover.navigation {
+	color: lightgray;
+}
+
+	
