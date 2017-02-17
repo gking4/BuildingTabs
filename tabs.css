@@ -1,4 +1,4 @@
-div {
+div.nav-tab {
 	background-color: gainsboro;
 	border-style: solid;
 }
@@ -8,7 +8,7 @@ a:link.navigation {
 	color: navy;
 }
 
-div:hover.navigation {
+div:hover.nav-tab {
 	color: darkgray;
 }
 
